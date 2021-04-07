@@ -1,5 +1,11 @@
 import java.util.ArrayList;
-
+/*
+*   AGREGAR PRODUCTOS NUEVOS CREANDO OBJ "Producto"
+*   CREAR CLIENTE USANDO OBJ "Empresa o ConsFinal" SEGUN CORRESPONDA
+*   VER LISTAS USANDO "Listas.ver*" *= NOMBRE DE CLASE
+*   CREAR NUEVO PEDIDO USANDO OBJ "Pedido"
+*   AGREGAR PRODUCTOS AL CARRITO USANDO METODO "addItem"
+*/
 public class Main {
 
     public static void main(String[] args) {
